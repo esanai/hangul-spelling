@@ -1,5 +1,5 @@
 # 한글 맞춤법 검사기
-Alfred workflow (Alfred 3 powerpack 필요)
+Alfred workflow - Alfred powerpack license 필요
 
 [Download](https://github.com/esanai/hangul-spelling/raw/master/%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%86%E1%85%A1%E1%86%BD%E1%84%8E%E1%85%AE%E1%86%B7%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A1%E1%84%80%E1%85%B5.alfredworkflow)
 
